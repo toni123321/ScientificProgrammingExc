@@ -1,0 +1,11 @@
+# virtual environment
+venv/
+
+# dataset (MNIST)
+MNIST/
+
+# Folder automatically created by Jupyter Notebook to store checkpoint files
+.ipynb_checkpoints/
+
+# Data csv file for exc3
+data_file.csv
